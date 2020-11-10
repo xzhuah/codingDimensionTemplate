@@ -1,5 +1,7 @@
 # codingDimensionTemplate
 
+A more professional version of this template using Guice is published at (codingDimensionTemplate_Guice)[https://github.com/xzhuah/codingDimensionTemplate_Guice]
+
 ### What stops us from reusing our own code
  Template for codingDimension Framework. This template is designed for individual Programming learners, Programming enthusiast of all language. Think about how many times did you write a same block of code to solve similar problems? Have you encountered this kind of situation: you want to solve a new problem (for example you want to read/write a csv file) and you remember you have writen those coding for many times before, but you just can't find where those code are. Even if you find them, you have to copy and plaste them into your new project. This template is designed to help you solve this kind of problem. 
 
